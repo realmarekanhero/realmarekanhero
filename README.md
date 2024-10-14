@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @realmarekanhero
-- 👀 I’m interested in health care advancement, AI, all types of engineering, and automobiles
+- 👀 I’m interested in program management, AI, all types of engineering, and automobiles
 - 🌱 I’m currently learning Python 3, and about ML/LLM
 - 💞️ I’m looking to collaborate on nothing in particular at this time, but always willing to provide an outside looking in perspective
 
